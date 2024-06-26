@@ -60,7 +60,7 @@ This project will employ EDA techniques to analyze the dataset, uncover patterns
    precision recall f1-score support
    0 0.86 1.00 0.92 4187
    1 0.00 0.00 0.00 694
-  accuracy 0.86 4881
+  accuracy     0.86 4881
   macro avg 0.43 0.50 0.46 4881
   weighted avg 0.74 0.86 0.79 4881
 
