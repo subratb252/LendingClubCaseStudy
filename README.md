@@ -84,7 +84,7 @@ This project will employ EDA techniques to analyze the dataset, uncover patterns
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@subratb252] - feel free to contact me!
 
 
 <!-- Optional -->
